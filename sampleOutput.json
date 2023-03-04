@@ -1,0 +1,254 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Leo Sands, Kelly Kasulis Cho, Isabelle Khurshudyan, Miriam Berger",
+            "title": "Russia-Ukraine war live updates: Putin declares martial law in four illegally annexed regions of Ukraine - The Washington Post",
+            "description": "Russian President Vladimir Putin is empowering military officials in Donetsk, Luhansk, Kherson and Zaporizhzhia, the four Ukrainian regions he illegally annexed.",
+            "url": "https://www.washingtonpost.com/world/2022/10/19/russia-ukraine-putin-martial-law-live-updates/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FIES7MXT6XDKIDSXS4577C4DIA.jpg&w=1440",
+            "publishedAt": "2022-10-19T14:38:14Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Biden to announce emergency oil sales to prevent price spikes - Reuters.com",
+            "description": "U.S. President Joe Biden will announce a plan on Wednesday to sell off the last portion of his release from the nation's emergency oil reserve by year's end and detail a strategy to refill the stockpile when prices drop, administration officials said.",
+            "url": "https://www.reuters.com/markets/us/biden-lay-out-plan-complete-emergency-oil-sales-spark-us-production-2022-10-18/",
+            "urlToImage": "https://www.reuters.com/resizer/Miy-LqdKCESuWBgP4z-qIlDjuBU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/75TGGNUQV5IHFGQ3TTZGDEZIS4.jpg",
+            "publishedAt": "2022-10-19T13:44:00Z",
+            "content": "WASHINGTON, Oct 18 (Reuters) - U.S. President Joe Biden will announce a plan on Wednesday to sell off the last portion of his release from the nation's emergency oil reserve by year's end and detail … [+3484 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Elnaz Rekabi: Fans cheer, clap as climber returns to Iran - Reuters.com",
+            "description": "Iranian climber Elnaz Rekabi, who caused controversy by competing in an international contest without a headscarf, has returned to Iran to cheering supporters, reiterating in comments to state media she had climbed without a hijab unintentionally.",
+            "url": "https://www.reuters.com/world/middle-east/iranian-climber-elnaz-rekabi-cheered-by-fans-return-iran-2022-10-19/",
+            "urlToImage": "https://www.reuters.com/resizer/hwE3yIDRna89pYJwS-kjnKUqHCU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GEZDHO27JVLZDNEEKH3FJ5IFV4.jpg",
+            "publishedAt": "2022-10-19T13:36:00Z",
+            "content": "DUBAI, Oct 19 (Reuters) - Iranian climber Elnaz Rekabi, who caused controversy by competing in an international contest without a headscarf, has returned to Iran to cheering supporters, reiterating i… [+3087 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "FRANCE 24 English"
+            },
+            "author": "France 24",
+            "title": "Record measurement of universe suggests 'something is fishy' - FRANCE 24 English",
+            "description": "The most precise measurements ever made of the universe's composition and how fast it is expanding suggest \"something is fishy\" in our understanding of the cosmos, the astrophysicist who led the research said Wednesday.",
+            "url": "https://www.france24.com/en/live-news/20221019-record-measurement-of-universe-suggests-something-is-fishy",
+            "urlToImage": "https://s.france24.com/media/display/5fc0e82c-4faf-11ed-aa46-005056bfb2b6/w:1280/p:16x9/c674c9f9fb4096d801c055c5dcea65060a036f46.jpg",
+            "publishedAt": "2022-10-19T13:10:16Z",
+            "content": "Paris (AFP) The most precise measurements ever made of the universe's composition and how fast it is expanding suggest \"something is fishy\" in our understanding of the cosmos, the astrophysicist who … [+3699 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "R.J. Anderson",
+            "title": "Padres vs. Phillies score, takeaways: Kyle Schwarber, Bryce Harper and Zack Wheeler star in Game 1 victory - CBS Sports",
+            "description": "The Phillies took NLCS Game 1 on Tuesday night in San Diego",
+            "url": "https://www.cbssports.com/mlb/news/padres-vs-phillies-score-takeaways-kyle-schwarber-bryce-harper-and-zack-wheeler-star-in-game-1-victory/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/10/19/7a8ade38-04f1-4bdb-aa1f-726eeb608ba6/thumbnail/1200x675/6359a506e1c6f31ba5e698007615c9a4/schwarber-usatsi.png",
+            "publishedAt": "2022-10-19T12:58:00Z",
+            "content": "The Philadelphia Phillies struck first in the 2022 National League Championship Series with a 2-0 win over the San Diego Padres in Game 1. Phillies co-ace Zack Wheeler dominated with seven shutout in… [+4674 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Kate Dore, CFP®",
+            "title": "IRS: Here are the new income tax brackets for 2023 - CNBC",
+            "description": "The IRS has released higher federal tax brackets and standard deductions for 2023 to adjust for inflation. Here's what filers need to know.",
+            "url": "https://www.cnbc.com/2022/10/19/irs-here-are-the-new-income-tax-brackets-for-2023.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/101081077-81859923.jpg?v=1666183081&w=1920&h=1080",
+            "publishedAt": "2022-10-19T12:38:01Z",
+            "content": "Amid soaring inflation, the IRS this week announced higher federal income tax brackets and standard deductions for 2023.\r\nThe agency has boosted the income thresholds for each bracket, applying to ta… [+1178 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Prisco's NFL Week 7 picks: Cowboys roll as Dak Prescott returns, Tom Brady, Bucs rebound, Broncos cool Jets - CBS Sports",
+            "description": "Pete Prisco reveals his Week 7 picks, including the 5-1 Giants losing as underdogs in Jacksonville",
+            "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-7-picks-cowboys-roll-as-dak-prescott-returns-tom-brady-bucs-rebound-broncos-cool-jets/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/10/19/c1ec47c9-9e3a-4ace-8ebe-05cfef3d84c6/thumbnail/1200x675/a32ac79fad49f0f54859b93881f87b64/dak.jpg",
+            "publishedAt": "2022-10-19T12:25:00Z",
+            "content": "Just once, I'd like to win in all three phases of the game.\r\nSound like a coach?\r\nI might actually need a coaching pep talk to get me going on these picks. I pick games straight up, against the sprea… [+6189 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "People delay turning heating on as UK inflation soars - BBC",
+            "description": "Cost of living increases by 10.1% in year to September as BBC survey suggests concern is rising.",
+            "url": "https://www.bbc.com/news/business-63240629",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1702F/production/_127255249_gettyimages-1287707108.jpg",
+            "publishedAt": "2022-10-19T12:04:16Z",
+            "content": "The rate at which prices rose in September has returned to a 40-year high as a BBC survey uncovers growing concern about the squeeze on finances.\r\nThe price of cereals, milk and cheese all went up al… [+4912 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Melissa Jacobs",
+            "title": "Jim Irsay broke the NFL billionaire’s code by turning on Dan Snyder. It’s about time - The Guardian",
+            "description": "Labeling Jim Irsay a hero is a stretch, but the Colts owner’s comments may set the table for a vote to force the toxic Daniel Snyder out of the NFL for good",
+            "url": "https://www.theguardian.com/sport/2022/oct/19/jim-irsay-daniel-snyder-washington-owner-comments",
+            "urlToImage": "https://i.guim.co.uk/img/media/624a4fc664bc79b9477fae1b7f883787d1734069/0_200_3000_1801/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=5ee4265d3df45b375125ec740715fdb5",
+            "publishedAt": "2022-10-19T11:40:00Z",
+            "content": "Finally, someone with influence said the obvious. Colts owner Jim Irsay set off fireworks Tuesday when he became the first NFL owner to publicly state that there is merit to remove Dan Snyder as owne… [+4494 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/mat-smith",
+            "title": "The Morning After: Apple reveals redesigned iPad, M2-powered iPad Pro and new Apple TV 4K - Engadget",
+            "description": "Apple reveals redesigned iPad, M2-powered iPad Pro and new Apple TV,\nMotorola and Lenovo show off rollable smartphones and laptop concepts,\nNetflix will begin charging 'extra user' fees early next year..",
+            "url": "https://www.engadget.com/the-morning-after-apple-reveals-redesigned-i-pad-m-2-powered-i-pad-pro-and-new-apple-tv-4-k-111637889.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/a200d030-4f00-11ed-b29f-4405c0b0d378",
+            "publishedAt": "2022-10-19T11:17:52Z",
+            "content": "There were rumors of an M2 iPad Pro, but they were just the start of Apples announcements yesterday. The company dropped a bunch of new hardware, but let's start with its most powerful new tablet. Th… [+4287 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TVLine"
+            },
+            "author": "Ryan Schwartz, Ryan Schwartz",
+            "title": "What to Watch on TV Wednesday, October 19, 2022 - TVLine",
+            "description": "On TV this Wednesday: American Horror Story, Documentary Now! and Love Is Blind return with new seasons, The Masked Singer hosts Andrew Lloyd Webber, and Kerry Washington and Charlize Theron overse…",
+            "url": "https://tvline.com/what-to-watch/american-horror-story-nyc-season-11-episode-1-ahs-premiere-fx/",
+            "urlToImage": "https://tvline.com/wp-content/uploads/2022/10/american-horror-story-season-11-fx.jpg?w=620",
+            "publishedAt": "2022-10-19T11:01:32Z",
+            "content": "On TV this Wednesday: American Horror Story, Documentary Now! and Love Is Blind return with new seasons, The Masked Singer hosts Andrew Lloyd Webber, and Kerry Washington and Charlize Theron oversee … [+193 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Matt Donnelly",
+            "title": "Meghan Markle Lets Her Guard Down: On Grieving Queen Elizabeth, Producing With Harry and Returning to Hollywood - Variety",
+            "description": "Popular on Variety The Duchess of Sussex is in mourning. But we’ll get back to that. First, let’s go to the day we met, this past summer, at the venerated San Ysidro Ranch in Montecito, Calif. The ranch is a low-key old luxury resort with simple bungalows tuc…",
+            "url": "https://variety.com/2022/digital/features/meghan-markle-grieving-queen-elizabeth-working-harry-1235407176/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/10/Meghan-Markle-Variety-Cover-Story-Featured-Image.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2022-10-19T11:00:22Z",
+            "content": "The Duchess of Sussex is in mourning. But we’ll get back to that. First, let’s go to the day we met, this past summer, at the venerated San Ysidro Ranch in Montecito, Calif. The ranch is a low-key ol… [+18147 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nouran Salahieh",
+            "title": "Investigators say they're chasing new leads every day to uncover what led to the killings of 4 men found in an Oklahoma river - CNN",
+            "description": "Investigators are following leads every day to find out how dismembered bodies of four men ended up in an Oklahoma river, but whenever water is involved, it makes it much more difficult to identify evidence, the police chief said.",
+            "url": "https://www.cnn.com/2022/10/19/us/oklahoma-dismembered-bodies-investigation-wednesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221015082402-okmulgee-men-missing.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-19T10:48:00Z",
+            "content": "Investigators are following leads every day to find out how dismembered bodies of four men ended up in an Oklahoma river, but whenever water is involved, it makes it much more difficult to identify e… [+5458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Russia begins evacuation from Kherson in south - BBC",
+            "description": "Thousands of civilians and officials will be moved in Kherson region because of Ukraine's offensive.",
+            "url": "https://www.bbc.com/news/world-europe-63311744",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/166CF/production/_127255819_b2324442-e5ee-4b4c-8e07-152b40614d1a.jpg",
+            "publishedAt": "2022-10-19T09:37:00Z",
+            "content": "Tens of thousands of civilians and Russian-appointed officials are being moved out of Ukraine's southern Kherson region ahead of a Ukrainian offensive, says the Russia-installed local leader.\r\nVladim… [+2633 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Election Forecast: Slate of races tilt toward GOP - POLITICO",
+            "description": "Ten races out of 12 are moving toward Republicans in the latest round of updates.",
+            "url": "https://www.politico.com/news/2022/10/19/campaign-election-forecast-gop-00062447",
+            "urlToImage": "https://static.politico.com/b8/ab/f5ba4f2a4ed08a497476355d790a/election-2022-oregon-governor-debate-41468.jpg",
+            "publishedAt": "2022-10-19T08:30:00Z",
+            "content": "There are still some bright spots on the map for Democrats, including Alaska, where the states lone House seat is now rated Lean Democratic after now-Rep. Mary Peltolas surprise special-election vict… [+5080 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Andrew Freedman",
+            "title": "Record cold envelops Midwest, Southeast as West stays unusually warm - Axios",
+            "description": "The U.S. is a divided country politically, but also temperature-wise — at least right now.",
+            "url": "https://www.axios.com/2022/10/18/big-chill-record-cold-invades-the-midwest-southeast",
+            "urlToImage": "https://images.axios.com/ybXo6iK5MOvmm8mp1SaPMfhXs9c=/0x93:1920x1173/1366x768/2022/10/18/1666137425383.png",
+            "publishedAt": "2022-10-19T05:28:07Z",
+            "content": "Record early cold air for early fall has enveloped a region from the Upper Midwest to the Gulf of Mexico, sending temperatures plunging to record lows. \r\nThe big picture: Freeze warnings are in effec… [+2771 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Rory Carroll",
+            "title": "Microphones dropped into ocean off Greenland to record melting icebergs - The Guardian",
+            "description": "Artist Siobhán McDonald will turn recordings into an acoustic installation exploring humanity’s impact on the ocean",
+            "url": "https://www.theguardian.com/environment/2022/oct/19/microphones-dropped-into-ocean-off-greenland-to-record-melting-icebergs",
+            "urlToImage": "https://i.guim.co.uk/img/media/453d11b00b1421b9d5b519eb12152c682886c926/0_100_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe1faa3f4a31d674f91d79a1482fb102",
+            "publishedAt": "2022-10-19T04:12:00Z",
+            "content": "An expedition of scientists and an artist is deploying underwater microphones in the ocean off Greenland to record and preserve the soundscape of melting icebergs.\r\nThe hydrophones will record sounds… [+3799 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ex-classmate convicted of murdering long-missing California student Kristin Smart - Reuters",
+            "description": "A former classmate of Kristin Smart, the California college freshman whose 1996 disappearance had long been one of the state's most sensational unsolved crimes, was found guilty on Tuesday of first-degree murder for her death.",
+            "url": "https://www.reuters.com/world/us/ex-classmate-convicted-murdering-long-missing-california-student-kristin-smart-2022-10-18/",
+            "urlToImage": "https://www.reuters.com/resizer/J3dCcRxv0UGWi3kephTh9o3TxV4=/600x314/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/M6QGMWKCJBOPTMBKEES5INJFMU.jpg",
+            "publishedAt": "2022-10-19T03:41:00Z",
+            "content": "Oct 18 (Reuters) - A former classmate of Kristin Smart, the California college freshman whose 1996 disappearance had long been one of the state's most sensational unsolved crimes, was found guilty on… [+2920 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Anthony D'Alessandro",
+            "title": "Global Box Office Needs A Hero: ‘Black Adam’ Raging To $135M Worldwide Opening - Deadline",
+            "description": "Finally, after a very long drought at the box office, a fire-breathing theatrical-windowed tentpole arrives in New Line’s Dwayne Johnson title, Black Adam. But will it deliver? Knock on wood, everyone hopes so for this DC movie that was shot for less than $20…",
+            "url": "https://deadline.com/2022/10/black-adam-dwayne-johnson-box-office-opening-worldwide-1235148749/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/07/black-adam-3.jpeg?w=1024",
+            "publishedAt": "2022-10-19T01:09:00Z",
+            "content": "Finally, after a very long drought at the box office, a fire-breathing theatrical-windowed tentpole arrives in New Line’s Dwayne Johnson title,Black Adam.\r\nBut will it deliver? \r\nKnock on wood, every… [+4689 chars]"
+        }
+    ]
+    
+}

@@ -1,3 +1,7 @@
+
+HIT npm i before running this project as i deleted node modules
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
